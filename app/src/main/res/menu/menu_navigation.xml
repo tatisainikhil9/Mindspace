@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24"/>
+    <item
+        android:id="@+id/meditate"
+        android:title="Meditate"
+        android:icon="@drawable/ic_baseline_emoji_emotions_24"/>
+
+    <item
+        android:id="@+id/sleep"
+        android:title="Sleep"
+        android:icon="@drawable/ic_baseline_sleep_24"/>
+
+    <item
+        android:id="@+id/excercise"
+        android:title="Excercise"
+        android:icon="@drawable/ic_baseline_excercise_24"/>
+
+</menu>
