@@ -16,6 +16,8 @@ public class ExcerciseActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_excercise);
 
+        getSupportActionBar().setTitle("Excercise");
+
         // Initialize and assign variable
         BottomNavigationView bottomNavigationView=findViewById(R.id.bottom_navigation);
 
