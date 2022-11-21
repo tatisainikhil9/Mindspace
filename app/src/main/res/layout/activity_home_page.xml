@@ -18,4 +18,19 @@
         app:itemTextColor="@drawable/selector"
         app:menu="@menu/menu_navigation" />
 
+    <Button
+        android:id="@+id/logout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/logout" />
+
+    <TextView
+        android:id="@+id/mail"
+        android:layout_width="330dp"
+        android:layout_height="wrap_content"
+        android:textSize="24dp"
+        android:text="Email Id"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"/>
+
 </RelativeLayout>
