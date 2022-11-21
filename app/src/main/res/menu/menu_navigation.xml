@@ -17,7 +17,7 @@
 
     <item
         android:id="@+id/excercise"
-        android:title="Excercise"
+        android:title="Exercise"
         android:icon="@drawable/ic_baseline_excercise_24"/>
 
 </menu>
